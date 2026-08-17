@@ -90,4 +90,4 @@ python main.py cli
 
 ## About the Project
 
-This project was completed as part of a computer science course. The goal was to work with biomedical network data using graph and key-value databases and build an interface for querying the results.
+This project was completed as part of Big Data Technology course. The goal was to work with biomedical network data using graph and key-value databases and build an interface for querying the results.
